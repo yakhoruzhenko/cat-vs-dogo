@@ -2,7 +2,8 @@
 
   * https://github.com/yarusx/cat-vs-dogo/blob/main/dog_cat_breed_0_0_2.ipynb
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JKebMRNHfGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Use case](https://www.youtube.com/embed/JKebMRNHfGo)
+
 
 ![Use case](https://github.com/yarusx/cat-vs-dogo/raw/main/dvc_usecase.png)
 
