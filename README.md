@@ -2,7 +2,7 @@
 
   * https://github.com/yarusx/cat-vs-dogo/blob/main/dog_cat_breed_0_0_2.ipynb
 
-![Use case](https://www.youtube.com/embed/JKebMRNHfGo)
+https://www.youtube.com/embed/JKebMRNHfGo
 
 
 ![Use case](https://github.com/yarusx/cat-vs-dogo/raw/main/dvc_usecase.png)
