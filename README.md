@@ -6,7 +6,7 @@
   
 ![Use case_gif](https://github.com/yarusx/cat-vs-dogo/blob/main/usecase.gif)
 
-![Use case_screen](https://github.com/yarusx/cat-vs-dogo/raw/main/dvc_usecase.png)
+![Use case_screen](https://github.com/yarusx/cat-vs-dogo/raw/main/dvc_usecase.png =250x250)
 
 ### Dogs breeds:
  * 'pug', 'basset_hound', 'shiba_inu', 'leonberger', 'saint_bernard', 'miniature_pinscher', 'wheaten_terrier', 'scottish_terrier', 'pomeranian', 'german_shorthaired', 'english_setter', 'newfoundland', 'boxer', 'great_pyrenees', 'samoyed', 'japanese_chin', 'english_cocker_spaniel', 'havanese', 'american_pit_bull_terrier', 'keeshond', 'american_bulldog', 'chihuahua', 'beagle', 'yorkshire_terrier', 'staffordshire_bull_terrier'
