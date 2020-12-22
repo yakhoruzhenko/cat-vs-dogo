@@ -2,10 +2,11 @@
 
   * https://github.com/yarusx/cat-vs-dogo/blob/main/dog_cat_breed_0_0_2.ipynb
 
-https://www.youtube.com/embed/JKebMRNHfGo
+![Use case1](https://github.com/yarusx/cat-vs-dogo/blob/main/usecase.gif)
 
+  * You could look close at this use case on my YouTube channel: https://youtu.be/JKebMRNHfGo
 
-![Use case](https://github.com/yarusx/cat-vs-dogo/raw/main/dvc_usecase.png)
+![Use case2](https://github.com/yarusx/cat-vs-dogo/raw/main/dvc_usecase.png)
 
 ### Dogs breeds:
  * 'pug', 'basset_hound', 'shiba_inu', 'leonberger', 'saint_bernard', 'miniature_pinscher', 'wheaten_terrier', 'scottish_terrier', 'pomeranian', 'german_shorthaired', 'english_setter', 'newfoundland', 'boxer', 'great_pyrenees', 'samoyed', 'japanese_chin', 'english_cocker_spaniel', 'havanese', 'american_pit_bull_terrier', 'keeshond', 'american_bulldog', 'chihuahua', 'beagle', 'yorkshire_terrier', 'staffordshire_bull_terrier'
