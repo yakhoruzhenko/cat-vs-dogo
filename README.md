@@ -22,4 +22,4 @@
 
 #### Training of all models has been produced with 'The Oxford-IIIT Pet Dataset': http://www.robots.ox.ac.uk/~vgg/data/pets/.
 
-#### The Project is at the earliest stage of its production. So a lot of things should be and will be updated.
+#### The Project is at the earliest stage of its production. Current validation accuracy: for a binary classification ~ 98.5%, for a cat breeds classification ~ 87%, for a dog breeds classification ~ 90%. So a lot of things should be and will be updated.
