@@ -1,6 +1,6 @@
 ## TO RUN CLASSIFIER PLEASE USE THIS COLAB NOTEBOOK:
 
-  * https://github.com/yarusx/cat-vs-dogo/blob/main/dog_cat_breed_0_0_2.ipynb
+  * https://github.com/yarusx/cat-vs-dogo/blob/main/dog_cat_breed_0_1_0.ipynb
 
   * You could look close at this use case on my YouTube channel: https://youtu.be/JKebMRNHfGo
 
@@ -18,7 +18,7 @@
   * build dog vs cat model (https://github.com/yarusx/cat-vs-dogo/blob/main/cat_vs_dog_0_0_2.ipynb).
   * build dog model (https://github.com/yarusx/cat-vs-dogo/blob/main/dogs_breeds_0_0_2.ipynb).
   * build cat model (https://github.com/yarusx/cat-vs-dogo/blob/main/cats_breeds_0_0_2.ipynb).
-  * predict dog vs cat => dog breed or cat breed with a pretty decent accuracy (https://github.com/yarusx/cat-vs-dogo/blob/main/dog_cat_breed_0_0_2.ipynb).
+  * predict dog vs cat => dog breed or cat breed with a pretty decent accuracy (https://github.com/yarusx/cat-vs-dogo/blob/main/dog_cat_breed_0_1_0.ipynb).
 
 #### Training of all models has been produced with 'The Oxford-IIIT Pet Dataset': http://www.robots.ox.ac.uk/~vgg/data/pets/.
 
